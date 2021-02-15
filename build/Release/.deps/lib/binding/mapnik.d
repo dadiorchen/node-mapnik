@@ -1,0 +1,1 @@
+cmd_lib/binding/mapnik := LD_LIBRARY_PATH=/root/node-mapnik/build/Release/lib.host:/root/node-mapnik/build/Release/lib.target:$$LD_LIBRARY_PATH; export LD_LIBRARY_PATH; cd ../.; mkdir -p ./lib/binding; ./scripts/postinstall.sh

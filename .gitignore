@@ -1,8 +1,5 @@
 .DS_Store
 archive
-build
-lib/binding
-lib/mapnik_settings.js
 node_modules
 src/*.*~
 npm-debug.log
